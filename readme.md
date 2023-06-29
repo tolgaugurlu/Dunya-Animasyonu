@@ -12,6 +12,7 @@ Proje **HTML5** ve **CSS3** kullanılarak oluşturulmuştur.
 
 </div>
 <hr>
-<h2 align="center">Demo Görüntü</h2>
+<h2 align="center">Demo Video</h2>
 
-## DEMO IMG
+https://github.com/tolgaugurlu/Dunya-Animasyonu/assets/85436268/ce729d24-0924-4a17-83a6-9a0a281a3db8
+
